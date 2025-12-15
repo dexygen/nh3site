@@ -1,1 +1,1 @@
-<?php header("Location: ./atc"); exit;
+<?php header("Location: ./club"); exit;
